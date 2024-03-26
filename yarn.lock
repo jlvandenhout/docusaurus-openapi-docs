@@ -8309,6 +8309,7 @@ __metadata:
     mustache: "npm:^4.2.0"
     slugify: "npm:^1.6.5"
     swagger2openapi: "npm:^7.0.8"
+    typescript: "npm:^4.9.5"
     xml-formatter: "npm:^2.6.1"
   peerDependencies:
     react: ^16.8.4 || ^17.0.0 || ^18.0.0
@@ -8350,6 +8351,7 @@ __metadata:
     file-saver: "npm:^2.0.5"
     lodash: "npm:^4.17.20"
     node-polyfill-webpack-plugin: "npm:^2.0.1"
+    prettier: "npm:3.2.5"
     prism-react-renderer: "npm:^2.3.0"
     react-hook-form: "npm:^7.43.8"
     react-live: "npm:^4.0.0"
@@ -8360,6 +8362,7 @@ __metadata:
     rehype-raw: "npm:^6.1.1"
     sass: "npm:^1.58.1"
     sass-loader: "npm:^13.3.2"
+    typescript: "npm:^4.9.5"
     webpack: "npm:^5.61.0"
     xml-formatter: "npm:^2.6.1"
   peerDependencies:
@@ -17336,7 +17339,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:^3.2.5":
+"prettier@npm:3.2.5, prettier@npm:^3.2.5":
   version: 3.2.5
   resolution: "prettier@npm:3.2.5"
   bin:
